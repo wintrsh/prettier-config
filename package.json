@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"description": "wintr.sh's prettier config",
 	"main": "index.json",
+	"repository": "git@github.com:wintrsh/prettier-config.git",
 	"contributors": [
 		{
 			"name": "bunny winter",
