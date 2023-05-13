@@ -14,5 +14,6 @@
 			"email": "ellie@wintr.family"
 		}
 	],
-	"license": "GPL-3.0-or-later"
+	"license": "GPL-3.0-or-later",
+	"packageManager": "yarn@3.5.1"
 }
