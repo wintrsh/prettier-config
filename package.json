@@ -1,0 +1,17 @@
+{
+	"name": "@wintr/prettier-config",
+	"version": "1.0.0",
+	"description": "wintr.sh's prettier config",
+	"main": "index.json",
+	"contributors": [
+		{
+			"name": "bunny winter",
+			"email": "bunny@wintr.family"
+		},
+		{
+			"name": "ellie winter",
+			"email": "ellie@wintr.family"
+		}
+	],
+	"license": "GPL-3.0-or-later"
+}
